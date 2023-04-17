@@ -8,4 +8,4 @@ Just another tf2 config featuring:
 -----------------------------------------------
 •Pvz gw2 killsound
 -----------------------------------------------
-•Christf2config lowest settings
+•Christf2config lowest settings (can be found here: https://github.com/tf2configs/tf2configs/)
