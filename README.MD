@@ -2,9 +2,9 @@
 Just another tf2 config featuring:
 
 •Spy.cfg with disguise binds + auto redisguise
-
+------------------------------------------------
 •Engineer.cfg with build binds on f1,f2,f3,f4
-
+------------------------------------------------
 •Pvz gw2 killsound
-
+--------------------------------
 •Christf2config lowest settings
