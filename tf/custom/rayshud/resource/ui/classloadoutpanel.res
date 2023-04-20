@@ -74,8 +74,8 @@
 		"itemoptionpanels_kv"
 		{
 			"ControlName"		"CExButton"
-			"xpos"				"0"
-			"ypos"				"0"
+			"xpos"				"1"
+			"ypos"				"1"
 			"zpos"				"1"
 			"wide"				"20"
 			"tall"				"20"
@@ -161,7 +161,17 @@
 	"TopLine"
 	{
 		"ControlName"		"ImagePanel"
-		"xpos"				"9999"
+		"fieldName"			"TopLine"
+		"xpos"				"c-305"
+		"ypos"				"40"
+		"zpos"				"2"
+		"wide"				"610"
+		"tall"				"10"
+		"visible"			"0"
+		"enabled"			"0"
+		"image"				"loadout_dotted_line"
+		"tileImage"			"1"
+		"tileVertically"	"0"
 	}
 
 	"classmodelpanel"
@@ -329,7 +339,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 	}
 
 	"BlueButton"
@@ -358,7 +367,6 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"sound_armed"		"UI/buttonrollover.wav"
 	}
 
 	"CharacterLoadoutButton"
@@ -375,7 +383,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"B"
+		"labelText"			"["
 		"textAlignment"		"center"
 		"font"				"CustomIcons"
 		"scaleImage"		"1"
@@ -407,7 +415,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"C"
+		"labelText"			"]"
 		"textAlignment"		"center"
 		"font"				"CustomIcons"
 		"scaleImage"		"1"

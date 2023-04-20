@@ -150,7 +150,7 @@
 		"border_armed"		"NoBorder"
 	}
 
-	"TF2SettingsButton"
+	"AdvSettingsButton"
 	{
 		"xpos"			"90"
 		"ypos"			"165"

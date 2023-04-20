@@ -84,8 +84,6 @@
 		"fieldName"				"ItemEffectMeterCountShadow"
 		"xpos"					"-2"
 		"ypos"					"-2"
-		"xpos_minmode"			"-1"
-		"ypos_minmode"			"-1"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"

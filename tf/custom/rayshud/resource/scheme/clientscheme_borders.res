@@ -1,9 +1,5 @@
 Scheme
 {
-	//
-	//////////////////// BORDERS //////////////////////////////
-	//
-	// describes all the border types
 	Borders
 	{
 		ButtonHover
@@ -218,27 +214,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "4 1"
 				}
 			}
@@ -246,27 +242,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "4 1"
 				}
 			}
@@ -274,27 +270,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyanShadow"
+					"color" "ColorCyanFade"
 					"offset" "4 1"
 				}
 			}

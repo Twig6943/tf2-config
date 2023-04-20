@@ -87,7 +87,7 @@
 		"tall"				"17"
 		"visible"			"0"
 		"enabled"			"0"
-		"bgcolor_override"	"TransparentBlack"
+		"bgcolor_override"	"HudBlack"
 		"PaintBackgroundType"	"2"
 
 		"if_hybrid"
@@ -183,6 +183,36 @@
 			"fgcolor"			"TransparentBlack"
 			"proportionalToParent"	"1"
 			"pin_to_sibling"		"FlagValue"
+		}
+
+		"WhiteBG"
+		{
+			"ControlName"		"EditablePanel"
+			"fieldName"			"WhiteBG"
+			"xpos"				"36"
+			"ypos"				"71"
+			"zpos"				"1"
+			"wide"				"40"
+			"tall"				"18"
+			"visible"			"0"
+			"enabled"			"0"
+			"PaintBackgroundType"	"0"
+			"bgcolor_override"		"TanLight"
+		}
+
+		"GreenBG"
+		{
+			"ControlName"		"EditablePanel"
+			"fieldName"			"GreenBG"
+			"xpos"				"37"
+			"ypos"				"72"
+			"zpos"				"2"
+			"wide"				"38"
+			"tall"				"16"
+			"visible"			"0"
+			"enabled"			"0"
+			"PaintBackgroundType"	"0"
+			"bgcolor_override"		"CreditsGreen"
 		}
 
 		"TeamLeaderImage"
@@ -394,7 +424,7 @@
 					"textAlignment"		"west"
 					"labelText"			"#TF_RD_BlueFinale"
 					"font"				"HudFontSmallBold"
-					"fgcolor"			"TransparentBlack"
+					"fgcolor"			"Black"
 					"proportionalToParent"	"1"
 				}
 
@@ -533,7 +563,7 @@
 					"textAlignment"		"west"
 					"labelText"			"#TF_RD_RedFinale"
 					"font"				"HudFontSmallBold"
-					"fgcolor"			"TransparentBlack"
+					"fgcolor"			"Black"
 					"proportionalToParent"	"1"
 				}
 
@@ -573,7 +603,7 @@
 					"textAlignment"		"west"
 					"labelText"			"%victorytime%"
 					"font"				"HudFontSmallBold"
-					"fgcolor"			"TransparentBlack"
+					"fgcolor"			"Black"
 					"proportionalToParent"	"1"
 
 					"pin_to_sibling"			"VictoryLabel"

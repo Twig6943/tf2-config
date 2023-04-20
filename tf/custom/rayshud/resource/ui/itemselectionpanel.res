@@ -169,13 +169,31 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TopLine"
-		"xpos"			"9999"
+		"xpos"			"c-305"
+		"ypos"			"40"
+		"zpos"			"2"
+		"wide"			"610"
+		"tall"			"10"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			"loadout_dotted_line"
+		"tileImage"		"1"
+		"tileVertically" "0"
 	}
 	"BottomLine"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BottomLine"
-		"xpos"			"9999"
+		"xpos"			"c-305"
+		"ypos"			"330"
+		"zpos"			"2"
+		"wide"			"610"
+		"tall"			"10"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			"loadout_dotted_line"
+		"tileImage"		"1"
+		"tileVertically" "0"
 	}
 
 	"ItemSlotLabel"
