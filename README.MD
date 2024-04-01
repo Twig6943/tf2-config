@@ -11,4 +11,5 @@ Just another tf2 config featuring:
 
 •Crosshair color change depending on the way you move 
 
-•Set model detail to medium if you're playing with an igpu.
+•Use autoexec_igpu instead of autoexec if you're playing with an igpu 
+•Set model detail to medium if you're playing with an igpu
