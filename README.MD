@@ -11,7 +11,8 @@ Just another tf2 config featuring:
 
 •Christf2config lowest settings (can be found here: https://github.com/tf2configs/tf2configs/)
 
-•Crosshair color change depending on the way you move 
+•Crosshair color change depending on the way you move
 
-•Use autoexec_igpu instead of autoexec if you're playing with an igpu 
+•Use autoexec_igpu instead of autoexec if you're playing with an igpu
+
 •Set model detail to medium if you're playing with an igpu
