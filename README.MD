@@ -11,5 +11,6 @@ Just another tf2 config featuring:
 
 •Crosshair color change depending on the way you move 
 
+Download latest rayshud from [here](https://github.com/raysfire/rayshud/archive/master.zip) and extract it to `/tf/custom/`
 •Use autoexec_igpu instead of autoexec if you're playing with an igpu 
 •Set model detail to medium if you're playing with an igpu
